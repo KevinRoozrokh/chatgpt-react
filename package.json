@@ -1,0 +1,72 @@
+{
+  "name": "chatgpt",
+  "version": "1.0.0",
+  "private": true,
+  "author": {
+    "name": "Kevin Roozrokh",
+    "email": "kevrooz@outlook.com",
+    "url": "https://github.com/KevinRoozrokh"
+  },
+  "dependencies": {
+    "bad-words": "^3.0.4",
+    "daisyui": "^2.51.6",
+    "firebase": "^9.22.0",
+    "moment": "^2.29.4",
+    "openai": "^3.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.7.1",
+    "react-markdown": "^8.0.4",
+    "react-scripts": "^5.0.1",
+    "react-syntax-highlighter": "^15.5.0",
+    "remark-gfm": "^3.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.20",
+    "tailwindcss": "^3.2.4"
+  },
+  "keywords": [
+    "openai",
+    "chatgpt",
+    "text-davinci-003",
+    "dalle",
+    "dall.e",
+    "dalle2",
+    "gpt",
+    "gpt3",
+    "image generation",
+    "machine learning",
+    "conversational ai",
+    "conversation",
+    "chatbot",
+    "chat",
+    "bot",
+    "ai",
+    "ml",
+    "bot"
+  ]
+}
